@@ -1,6 +1,6 @@
 # task-tracker
 
-Personal vue.js project. This project uses CRUD actions to create, read, update, and delete a task.  
+Welcome to task-tracker!
 
 ## Project setup
 ```
