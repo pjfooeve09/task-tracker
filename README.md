@@ -1,3 +1,5 @@
+# task-tracker
+
 Personal vue.js project. This project uses CRUD actions to create, read, update, and delete a task.  
 
 ## Project setup
@@ -22,4 +24,4 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# task-tracker
+
